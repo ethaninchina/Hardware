@@ -1,5 +1,5 @@
 ### 32bit的CPU最多只支持4G内存
-官网地址：http://kafka.apache.org<br>
+图片：<br>
 
 ```shell
 1、1byte = 8bit是内存最小的IO单位（一个存储单位是1byte=8bit）
