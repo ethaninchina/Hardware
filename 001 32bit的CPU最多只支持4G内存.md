@@ -1,6 +1,6 @@
 ### 32bit的CPU最多只支持4G内存
 ![1](https://github.com/ethaninchina/Hardware/blob/master/1.png)
-
+![2](https://github.com/ethaninchina/Hardware/blob/master/2.png)
 ```shell
 1、1byte = 8bit是内存最小的IO单位（一个存储单位是1byte=8bit）
 2、cpu通过内存地址来读写内存存储(内存地址相当于索引、门牌号)
