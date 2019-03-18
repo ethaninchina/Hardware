@@ -1,5 +1,5 @@
 ### 32bit的CPU最多只支持4G内存
-![1](Hardware/001 32bit的CPU最多只支持4G内存/img/1.png)
+Hardware/001 32bit的CPU最多只支持4G内存/img/1.png
 ![2](Hardware/001 32bit的CPU最多只支持4G内存/img/2.png)
 ```shell
 1、1byte = 8bit是内存最小的IO单位（一个存储单位是1byte=8bit）
